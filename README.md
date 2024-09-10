@@ -1,6 +1,6 @@
 # Hi, I'm Dea Bočina 👋
 
-📚 Computer Science student at the University Department of Professional Studies.
+📚 Computing student at the University Department of Professional Studies.
 
 💻 Passionate about Web Development with experience in both front-end and back-end technologies.
 
