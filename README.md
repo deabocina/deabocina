@@ -10,5 +10,3 @@
 
 
 Thanks for visiting! Happy coding! 🚀
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,bootstrap,postgres,mysql,linux)](https://skillicons.dev)
