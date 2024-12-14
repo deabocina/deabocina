@@ -1,12 +1,11 @@
 # Hi, I'm Dea Bočina 👋
 
-💻 Passionate about Frontend Development with experience in both front-end and back-end technologies.
+💻 Passionate about **Frontend Development**, focusing on creating **responsive**, **user-friendly** web applications.
 
-🚀 Exploring the exciting world of web technologies and constantly learning.
+🚀 Continuously exploring new **web technologies**.
 
-👨‍💻 Check out my repositories for various projects.
+👩‍💻 Check out my repositories for various **frontend** and **full-stack** projects.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deabocina&layout=compact)](https://github.com/deabocina)
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deabocina&layout=compact&hide=html,java&langs_count=8)](https://github.com/deabocina)
 
 Thanks for visiting! Happy coding! 🚀
